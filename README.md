@@ -62,12 +62,10 @@
 
 
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamjitiya&show_icons=true&theme=darkula" />
-	
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjitiya&theme=vue%22/>
+<p>
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamjitiya&show_icons=true&theme=moltack" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjitiya" />
 </p>
-
 
 <p align="center>
 
@@ -75,26 +73,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjitiya&layout=compact)](https://github.com/shubhamjitiya/github-readme-stats)
 
 </p>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
----
-[![](https://visitcount.itsvg.in/api?id=shubhamjitiya&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/shubhamjitiya/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/shubhamjitiya/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/shubhamjitiya/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/shubhamjitiya/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/shubhamjitiya/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/shubhamjitiya/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/shubhamjitiya/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/shubhamjitiya/minter-dapp)
-<!--END_SECTION:activity-->
-
-</details>
-
+	  
 ---
 
 ### 📕 Google Cloud - Android Study Jams :
@@ -105,12 +84,18 @@
 - [ Lemonade App | Android Study Jams ](https://youtu.be/trie2mgdRpU)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more videos ...](https://www.youtube.com/c/ShubhamJitiya)
 
-<div align="center">
+	  
+### ✍️Random Dev Quote :
+	  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-### Show some ❤️ by starring some of the repositories!
+[![](https://visitcount.itsvg.in/api?id=shubhamjitiya&icon=0&color=1)](https://visitcount.itsvg.in)
 
+	  
+<div align=center>
+Show some ❤️ by starring some of the repositories!
 </div>
 
 
