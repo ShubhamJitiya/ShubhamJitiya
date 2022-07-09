@@ -11,6 +11,7 @@
 - 💬 Ask me about android or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day with development.
+- ⌨️ Avg. Typing speed 66 wpm
 
 
 ## 📱 My Android Apps :
@@ -53,7 +54,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=shubhamjitiya&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
