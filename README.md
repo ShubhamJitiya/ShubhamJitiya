@@ -74,9 +74,8 @@
 
 </p>
 	  
----
 
-### 📕 Google Cloud - Android Study Jams :
+## 📕 Google Cloud - Android Study Jams :
 
 <!-- BLOG-POST-LIST:START -->
 - [Repeat, When, Android Studio basics layouts | Android Study Jams](https://youtu.be/LeL3I-RzcNc)
@@ -86,8 +85,9 @@
 
 ➡️ [more videos ...](https://www.youtube.com/c/ShubhamJitiya)
 
+	 
 	  
-### ✍️Random Dev Quote :
+## ✍️Random Dev Quote :
 	  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
