@@ -19,6 +19,7 @@
 <!-- YOUTUBE:START -->
 - [GTU - Everything for students](https://play.google.com/store/apps/details?id=com.shubhjitiya.gecgandhinagar)
 - [Mystifying](https://play.google.com/store/apps/details?id=com.jitiyashubham.mystifying)
+- [Flex - Study | Home Tutoring app] (https://github.com/shyamsar30/Flex-Study)
 - [GOD - Goal of the day](https://play.google.com/store/apps/details?id=com.shubhamjitiya.god)
 - [WhatsInsta - Status Saver](https://play.google.com/store/apps/details?id=com.shubhjitiya.whatsinstasaver)
 
