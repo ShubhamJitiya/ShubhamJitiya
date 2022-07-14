@@ -7,7 +7,7 @@
 
 
 # 💫 About Me :
-- 🌝 believes in Think less - Do more !
+- 🌝 Believes in Think less - Do more !
 - 💬 Ask me about android or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day with development.
