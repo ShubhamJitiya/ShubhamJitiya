@@ -8,23 +8,25 @@
 
 # 💫 About Me :
 - 🌝 Believes in Think less - Do more !
-- 💬 Ask me about android or any tech-related stuff.
+- 💬 Ask me about android or any tech-related stuff (Tech lead : GEC - gn).
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day with development.
-- ⌨️ Avg. Typing speed 66 wpm
+- ⌨️ Avg. Typing speed 73+ wpm
 
 
 ## 📱 My Android Apps :
 
-<!-- YOUTUBE:START -->
+<!-- Projects:Start -->
 - [GTU - Everything for students](https://play.google.com/store/apps/details?id=com.shubhjitiya.gecgandhinagar)
 - [Mystifying](https://play.google.com/store/apps/details?id=com.jitiyashubham.mystifying)
 - [Flex - Study | Home Tutoring app](https://github.com/shyamsar30/Flex-Study)
 - [GOD - Goal of the day](https://play.google.com/store/apps/details?id=com.shubhamjitiya.god)
 - [WhatsInsta - Status Saver](https://play.google.com/store/apps/details?id=com.shubhjitiya.whatsinstasaver)
 
-- [Team OPS Gujarat](https://play.google.com/store/apps/details?id=com.gujarat.ops.team)
-<!-- YOUTUBE:END -->
+- [Team OPS Gujarat](https://play.google.com/store/apps/details?id=com.gujarat.ops.team) 
+- 	Invoice generator
+- 	DayDream 
+<!-- Projects:END -->
 
 ➡️ [more apps...](https://play.google.com/store/apps/dev?id=6657791161208757128)
 
