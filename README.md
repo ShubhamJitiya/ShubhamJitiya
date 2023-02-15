@@ -10,7 +10,7 @@
 - 🌝 Believes in Think less - Do more !
 - 💬 Ask me about android or any tech-related stuff (Tech lead : GEC - gn).
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day with development.
+- ⚡ Fun fact: I spend almost 12+ hours listening to songs every day with development.
 - ⌨️ Avg. Typing speed 73+ wpm
 
 
