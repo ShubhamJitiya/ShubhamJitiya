@@ -57,7 +57,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=shubhamjitiya&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamjitiya&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card
